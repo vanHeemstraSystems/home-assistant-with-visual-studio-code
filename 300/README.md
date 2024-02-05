@@ -2,8 +2,8 @@
 
 In Home Assistant go to **Settings** > **Add-ons**.
 
-If ```Visual Studio Code``` is not already listed, click **+ ADD-ON STORE**.
+If ```Studio Code Server``` is not already listed, click **+ ADD-ON STORE**.
 
-In the Search, type ```Visual Studio Code```. From the list of results choose ```Visual Studio Code```. Click **INSTALL**.
+In the Search, type ```Studio Code Server```. From the list of results choose ```Studio Code Server```. Click **INSTALL**.
 
 Restart Home Assistant.
