@@ -16,4 +16,4 @@ Next click **START**.
 
 Optional: Once Visual Studio Server has started, restart Home Assistant and make a backup so the new add-on is included in your backup.
 
-You should see the icon and the label ```Studio Code Server``` in the sidebar of your Home Assistant instance. Click on it to open Visual Studio within your Home Assistant instance.
+You should see the icon and the label ```Studio Code Server``` in the sidebar of your Home Assistant instance. Click on it to open Visual Studio Code within your Home Assistant instance.
