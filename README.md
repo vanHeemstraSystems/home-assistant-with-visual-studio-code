@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-with-visual-studio-code
+# Home Assistant with Visual Studio Code
 
-Based on "ABC" at https://www.abc.com/
+Based on "Home Assistant Add-on: Visual Studio Code" at https://www.abc.com/
 
 ## 100 - Introduction
 
