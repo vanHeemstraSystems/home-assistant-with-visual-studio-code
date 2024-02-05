@@ -10,6 +10,7 @@ After a succesful installation, it is reommended to activate the following optio
 
 - Start on boot: Yes
 - Watchdog: Yes
+- Auto update: Yes
 - Show in sidebar: Yes
 
 Next click **START**.
