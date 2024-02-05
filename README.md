@@ -1,7 +1,7 @@
 home-assistant-with-visual-studio-code
 # Home Assistant with Visual Studio Code
 
-Based on "Home Assistant Add-on: Visual Studio Code" at https://www.abc.com/
+Based on "Home Assistant Community Add-on: Visual Studio Code" at https://github.com/hassio-addons/addon-vscode
 
 ## 100 - Introduction
 
