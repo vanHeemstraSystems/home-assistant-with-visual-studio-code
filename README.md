@@ -3,6 +3,8 @@ home-assistant-with-visual-studio-code
 
 Based on "Home Assistant Community Add-on: Visual Studio Code" at https://github.com/hassio-addons/addon-vscode
 
+Based on "HOW TO - INSTALLATION STUDIO CODE SERVER IN HOME ASSISTANT" at https://www.youtube.com/watch?v=xexz23v10ek
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
